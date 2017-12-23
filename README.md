@@ -11,8 +11,8 @@ Features:
   - Play against other player or Reversi engine.
   - Pause the match and resume it at later stage.
   - Cancel the current match.
-  - Automatically generated match moves.
-  - Replay the moves of a concluded game using the moves list.
+  - Automatically generated move list of the match.
+  - Replay the moves of a concluded game using the move list.
   
 #### Note:  
 While the web page is full functioning, it is actually served as a resource for me
